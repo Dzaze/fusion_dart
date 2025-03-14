@@ -23,7 +23,7 @@ Ce **super outil** écrit en Python vous permet de :
 2. **Réinjecter** ensuite les modifications dans les fichiers d’origine sans effort.
 
 > **Pourquoi ?**  
-> - **Sauvegarde rapide** d’un projet complet.  
+> - **Sauvegarde rapide** d’un projet Flutter complet.  
 > - **Vue globale** pour modifier ou parcourir tout le code en une seule fois.  
 > - **Refactorisations massives** (recherches/remplacements, reformattage, etc.) facilitées.
 
