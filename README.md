@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.postimg.cc/GHLr8NLV/Chat-GPT-Image-3-juin-2026-11-25-30.png" alt="Bannière Futuriste" width="1080">
-</p>
 
 <h1 align="center">🚀 Outil de Fusion et Réinjection pour Fichiers Dart 🚀</h1>
 
