@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/8zGH5WjN/dzaze-banner.png" alt="Bannière Futuriste" width="600">
+  <img src="https://i.postimg.cc/GHLr8NLV/Chat-GPT-Image-3-juin-2026-11-25-30.png" alt="Bannière Futuriste" width="600">
 </p>
 
 <h1 align="center">🚀 Outil de Fusion et Réinjection pour Fichiers Dart 🚀</h1>
